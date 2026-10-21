@@ -45,6 +45,7 @@ le resultat etait idéale et totalement ce que je cherche
 -un bon prompt se compose de 5 éléments: un role, un contexte, une tache, une contraite et une format
 -l'auto crtique est importante pour ameliorer le prompt
 -la verification des informations est importante pour eviter les fausses informations (hallucinations): la reponse, fluide detaillée et convaincante n'est pas automatiquement vrai  
+-toujours evaluer apres chaque version et comparer, ajouter et ameliorer jusqu'a atteindre la bonne reponse
 
 ### Difficultés rencontrées
 -la formulation parfaite du prompt necessite du temps c'est pourquoi la réponse du ia n'etait pas parfait mais plutot proche de ce qu'on souhaite achever
