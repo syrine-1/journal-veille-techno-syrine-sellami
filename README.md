@@ -42,6 +42,9 @@ le resultat etait idéale et totalement ce que je cherche
 
 ### Ce que j'ai appris
 -pour avoir la réponse attendue, il faut bien detailler et clarifier le prompt jusqu'avoir ce qu'on cherche 
+-un bon prompt se compose de 5 éléments: un role, un contexte, une tache, une contraite et une format
+-l'auto crtique est importante pour ameliorer le prompt
+-la verification des informations est importante pour eviter les fausses informations (hallucinations): la reponse, fluide detaillée et convaincante n'est pas automatiquement vrai  
 
 ### Difficultés rencontrées
 -la formulation parfaite du prompt necessite du temps c'est pourquoi la réponse du ia n'etait pas parfait mais plutot proche de ce qu'on souhaite achever
