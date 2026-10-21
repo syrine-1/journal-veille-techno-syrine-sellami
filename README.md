@@ -46,6 +46,7 @@ le resultat etait idéale et totalement ce que je cherche
 -l'auto crtique est importante pour ameliorer le prompt
 -la verification des informations est importante pour eviter les fausses informations (hallucinations): la reponse, fluide detaillée et convaincante n'est pas automatiquement vrai  
 -toujours evaluer apres chaque version et comparer, ajouter et ameliorer jusqu'a atteindre la bonne reponse
+-assurer que le prompt est comprehensible pour le ia pour qu'il puisse generer la reponse q'on souhaite rapidement
 
 ### Difficultés rencontrées
 -la formulation parfaite du prompt necessite du temps c'est pourquoi la réponse du ia n'etait pas parfait mais plutot proche de ce qu'on souhaite achever
