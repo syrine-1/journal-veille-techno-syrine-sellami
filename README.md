@@ -1,6 +1,6 @@
 # Journal de bord — Veille Technologique
-## Semaine 1 et 2 — 00/10/2026
-### Ce que j'ai fait
+## Semaine 1  — 00/10/2026
+## ce que j'ai fait
  au cours des deux premiere seances, on a fait un petite introdction au monde du IA et son importance dans notre monde moderne et surtout comment manipuler les outils intéligentes au faveur du l'humanité
 ### Ce que j'ai appris
 -pour bien gérer le IA générative, il faut suivre une certaine charte d'usage de l'ia qui  renonce qu'il faut assurer 5 éléments:
@@ -28,3 +28,20 @@ ce dernier peut apparaitre sour forme de donnée, conception, usage...
 ### Difficultés rencontrées
 
 la manipulation de l'ai est un peu difficile au début car elle necessite du temps à perfectionner 
+
+## Semaine 1 et 2 — 09/10/2026
+
+## ce que j'ai fait
+au cours de cette séance,  on a essayé plusieurs versions du prompt au but de savoir la différence entre ces versions qui se diffère a travers des details: j'ai utilisé comme IA le Gemini
+-le prompt originale etait 'c'est quoi le IA?'
+le  'gemini' m'a donné une idée plus au moins généralisée sur le IA qui ne contient pas les details que j'attends
+-la 2ème version du prompt etait 'expliquer le IA pour un étudiant en Informatique'
+le resultat etait mieux au niveau de contenu: plus avancé et convenable pour le destinataire mais trop long 
+-la version finale est 'expliquer le fonctionnement du IA pour un etudiant 1ère année informatique en 100 mots au maximum'
+le resultat etait idéale et totalement ce que je cherche 
+
+### Ce que j'ai appris
+-pour avoir la réponse attendue, il faut bien detailler et clarifier le prompt jusqu'avoir ce qu'on cherche 
+
+### Difficultés rencontrées
+-la formulation parfaite du prompt necessite du temps c'est pourquoi la réponse du ia n'etait pas parfait mais plutot proche de ce qu'on souhaite achever
