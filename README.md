@@ -228,7 +228,7 @@ sa reponse est sour forme d'un tableau detaillé  selon ce qu'on a demandé dans
 -si on desire du contenu hors du document on doit le demander et le meme raisonnement pour le cas de ne pas vouloir le des informations hors le document fournis
 -toujours verifier les information fournis dans la repone car il peut ajouter des infor non desirée mais liée au sujet du document
 
-****### Difficultés rencontrées:
+### Difficultés rencontrées:
 il faut toujours verifier le contenu de la reponse pour eviter les informations non desirés car la majorité du temps il donnt des infromations lié au document fournis mais n'exsiste pas dans ce dernier
 
 
