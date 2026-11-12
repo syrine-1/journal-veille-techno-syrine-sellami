@@ -217,3 +217,20 @@ Vérification effectuée : Publication issue d'un média spécialisé reconnu en
 
 la crédibilité n'est pas assuré puisqu'on cherche a tranvers l'internet et la fausse information peut nous rencontrer avec des preuves sans savoir qu'elle est fausse (similaires aux Un mensonge pieux (white lies))
 
+## Semaine 4 — 30/10/2026 (workshop 2)
+## ce que j'ai fait
+au cours de cette seance on a demandé a l'assistant ai d'analyser un documemnt au but de savoir la validité de sa reponse 
+prompt donné: Analyse ce document PDF. Identifie sa problématique, ses objectifs, sa méthodologie, ses principaux résultats et ses limites. Présente les informations dans un tableau et indique les pages correspondantes lorsque cela est possible. N’ajoute aucune information absente du document
+sa reponse est sour forme d'un tableau detaillé  selon ce qu'on a demandé dans le prompt: une reponse sectionnée selon les points demandé sans ajout d'info pas contenu dans le PDF avec reference a la page d'ou il a pris l'information 
+
+### Ce que j'ai appris: 
+-pour que le AI  donne un resultat concret et juste, il faut detailler le prompt selon le besoin peronnelle 
+-si on desire du contenu hors du document on doit le demander et le meme raisonnement pour le cas de ne pas vouloir le des informations hors le document fournis
+-toujours verifier les information fournis dans la repone car il peut ajouter des infor non desirée mais liée au sujet du document
+
+****### Difficultés rencontrées:
+il faut toujours verifier le contenu de la reponse pour eviter les informations non desirés car la majorité du temps il donnt des infromations lié au document fournis mais n'exsiste pas dans ce dernier
+
+
+
+
