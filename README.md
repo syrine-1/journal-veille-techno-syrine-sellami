@@ -232,5 +232,24 @@ sa reponse est sour forme d'un tableau detaillé  selon ce qu'on a demandé dans
 il faut toujours verifier le contenu de la reponse pour eviter les informations non desirés car la majorité du temps il donnt des infromations lié au document fournis mais n'exsiste pas dans ce dernier
 
 
+## Semaine 5 — 13/11/2026 
+## ce que j'ai fait
+au cours de cette seance, on a demandé au IA de definir le agent IA sous la prompte "c'est quoi l'agent IA" puis " les etapes pour construire un agent IA"
+### Ce que j'ai appris:
+-Agent IA: est un système d'intelligence artificielle capable d'observer son environnement, de raisonner, d'utiliser des outils et d'agir de manière autonome pour accomplir un objectif, sans qu'on ait besoin de lui dicter chaque étape à la main.
+-il y a une difference entre un chatbot et un agent IA: un chatbot classique répond à une question à l'instant T, tandis qu'un agent IA enchaîne plusieurs actions, vérifie les résultats et s'adapte jusqu'à atteindre le but fixé.
+-les etapes pour construire un agent ia:
+1-Définir un périmètre précis et les critères de réussite et eviter de créer un assistant qui fait tout
+2-Choisir le modèle (LLM) et la stack technique :c'est a dire le cerveau de l'agent
+3-Rédiger le prompt système (rôle, règles et format) qui présente le "manuel d'instruction de l'agent
+4-Connecter les outils (Function Calling / API)
+5-Ajouter la mémoire et le contexte (RAG) c'est a dire determiner ce que l'agent doit se souvenir pour accomplir sa mission
+6-Mettre en place la boucle d'exécution et les garde-fous (limite d'itérations, validation humaine, gestion des erreurs...)
+7-Évaluer, tracer et itérer
+### Difficultés rencontrées:
+-pour créer un agent IA, il faut suirvre toute ces etapes 
+-un agent ia necessite beaucoups de temps pour evaluer et trouver le bugs du code 
+
+
 
 
